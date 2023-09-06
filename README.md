@@ -29,7 +29,6 @@ Este projeto está aberto a contribuições da comunidade de desenvolvedores. Se
 1. Clone o repositório em seu ambiente de desenvolvimento.
 2. Configure as propriedades do banco de dados no arquivo de configuração do Spring Boot.
 3. Compile e execute o projeto.
-4. Explore a documentação da API no Swagger para entender os endpoints disponíveis e começar a interagir com o sistema.
 
 Este projeto fornece uma base sólida para a criação de sistemas de vendas completos e pode ser estendido para atender às necessidades específicas do seu negócio. Desfrute de uma API robusta e flexível para gerenciar seu sistema de vendas!
 
